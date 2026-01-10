@@ -1,29 +1,5 @@
 [
   {
-    "order_id": "CA-2015-105158",
-    "Order Date": "9/5/2015",
-    "Ship Date": "9/10/2015",
-    "Customer ID": "NN-63744",
-    "Customer Name": "Noor Najian binti Wan Nazhan",
-    "City": "Bentong",
-    "Postal Code": "28700",
-    "Product ID": "JA-10001970",
-    "Category": "Jewelry and Accessories",
-    "Quantity": 3
-  },
-  {
-    "order_id": "CA-2017-142174",
-    "Order Date": "3/4/2017",
-    "Ship Date": "3/9/2017",
-    "Customer ID": "QP-23780",
-    "Customer Name": "Qu Pang Tam",
-    "City": "Bentong",
-    "Postal Code": "28700",
-    "Product ID": "FU-10000806",
-    "Category": "Furniture",
-    "Quantity": 2
-  },
-  {
     "order_id": "CA-2017-106180",
     "Order Date": "9/18/2017",
     "Ship Date": "9/23/2017",
@@ -156,3 +132,4 @@
     "Quantity": 3
   }
 ]
+
